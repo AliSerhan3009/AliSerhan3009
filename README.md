@@ -1,5 +1,3 @@
-
-</p>
 # Hi there 👋 I'm Ali Serhan
 ## About Me
 I'm a Computer Engineering student at LIU.  
