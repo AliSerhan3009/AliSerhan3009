@@ -40,7 +40,7 @@ Learning, coding, and problem-solving is my daily vibe 😎✨.
 
 ## 📫 Contact
 
-<p align="center">
+<p>
   <a href="mailto:aliserhan3009@gmail.com" target="_blank" title="Gmail">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right: 20px;" />
   </a>
