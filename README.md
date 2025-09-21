@@ -1,10 +1,19 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+</p>
+
 # Hi there 👋 I'm Ali Serhan
+
 ## About Me
+
 I'm a Computer Engineering student at LIU.  
 I love exploring new technologies, building fun projects, and occasionally turning my coffee into code ☕💻.  
-Learning, coding, and problem-solving is my daily vibes 😎✨.
+Learning, coding, and problem-solving is my daily vibe 😎✨.
 
-## Languages & Tools
+---
+
+## 🛠️ Languages & Tools
+
 <p>
   <a href="https://www.java.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -27,5 +36,4 @@ Learning, coding, and problem-solving is my daily vibes 😎✨.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-</p
-
+</p>
