@@ -14,9 +14,7 @@ Learning, coding, and problem-solving is my daily vibes 😎✨.
   </a>
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Assembly_language_icon.svg" alt="Assembly" width="40" height="40"/>
-  <a href="https://www.mysql.com/">
+  <img src="./assembly.png" alt="Assembly" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/VHDL_logo.svg" alt="VHDL" width="40" height="40"/>
