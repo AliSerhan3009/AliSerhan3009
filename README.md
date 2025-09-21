@@ -42,7 +42,7 @@ Learning, coding, and problem-solving is my daily vibe 😎✨.
 
 <p>
   <a href="mailto:aliserhan3009@gmail.com" target="_blank" title="Gmail">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="https://instagram.com/alii.serhan" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
