@@ -40,14 +40,11 @@ Learning, coding, and problem-solving is my daily vibe 😎✨.
 
 ## 📫 Contact
 
-<p>
-  <a href="mailto:aliserhan3009@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" style="margin-right: 10px;" />
-    <span style="vertical-align:middle;">aliserhan3009@gmail.com</span>
+<p align="center">
+  <a href="mailto:aliserhan3009@gmail.com" target="_blank" title="Gmail">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/alii.serhan" target="_blank">
-    <img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" alt="Instagram" width="40" height="40" />
-    <span style="vertical-align:middle;">@alii.serhan</span>
+  <a href="https://instagram.com/alii.serhan" target="_blank" title="Instagram">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
