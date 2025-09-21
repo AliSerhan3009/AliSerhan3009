@@ -45,6 +45,6 @@ Learning, coding, and problem-solving is my daily vibe 😎✨.
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="https://instagram.com/alii.serhan" target="_blank" title="Instagram">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
