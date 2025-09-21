@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Ali Serhan a Computer Engineer from Lebanon
-# About Me
+# Hi there 👋 I'm Ali Serhan a Computer Engineer from Lebanon
+## About Me
 I'm a Computer Engineering student at LIU.  
 I love exploring new technologies, building fun projects, and occasionally turning my coffee into code ☕💻.  
 Learning, coding, and problem-solving is my daily vibes 😎✨.
