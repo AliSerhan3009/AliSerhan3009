@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3llbHdvajZjN2tsOXZ5OTZzNjk2aGxvMHpxZDN0YzV5djVwcG12OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" alt="Funny dancing cat"/>
+
 </p>
 # Hi there 👋 I'm Ali Serhan
 ## About Me
