@@ -37,10 +37,11 @@ Learning, coding, and problem-solving is my daily vibe 😎✨.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 </p>
+## Connect Me
 
 <a href="mailto:aliserhan3009@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="margin-right: 10px;" />
 </a>
 <a href="https://instagram.com/alii.serhan" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" />
+  <img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" alt="Instagram" width="40" height="40" />
 </a>
